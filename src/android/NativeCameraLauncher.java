@@ -30,6 +30,9 @@ import android.graphics.Matrix;
 import android.util.Base64;
 import android.util.Log;
 
+import com.guluauto.cordova.camera.ExifHelper;
+import com.guluauto.cordova.camera.FileHelper;
+
 /**
  * This class launches the camera view, allows the user to take a picture,
  * closes the camera view, and returns the captured image. When the camera view
