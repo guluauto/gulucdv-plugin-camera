@@ -1,4 +1,4 @@
-package com.wezka.nativecamera;
+package com.guluauto.cordova.camera;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
